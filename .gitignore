@@ -1,2 +1,3 @@
 py/test.py
 py/csv/*.xlsx
+.vscode/settings.json
